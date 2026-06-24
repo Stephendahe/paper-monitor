@@ -1,5 +1,7 @@
 # Paper Monitor
 
+[中文说明](README.zh-CN.md)
+
 Paper Monitor is a local desktop monitor for newly published research papers. The current build focuses on solid-state battery literature and combines journal-scoped Crossref/RSS retrieval, local deduplication, keyword analysis, and a native macOS menu bar app.
 
 The app runs locally. It does not require an LLM service, and OpenAlex is disabled by default.
