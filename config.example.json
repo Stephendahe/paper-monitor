@@ -1,0 +1,135 @@
+{
+  "database_path": "work/solid-battery-monitor/articles.sqlite3",
+  "dashboard_path": "work/solid-battery-monitor/dashboard/latest.html",
+  "journal_metrics_path": "journal_metrics.json",
+  "settings_schema_version": 1,
+  "interval_seconds": 43200,
+  "max_notifications": 5,
+  "include_terms": [
+    "all-solid-state battery",
+    "all-solid-state batteries",
+    "solid-state battery",
+    "solid-state batteries",
+    "solid electrolyte",
+    "solid electrolytes",
+    "electrolyte",
+    "sulfide electrolyte",
+    "oxide electrolyte",
+    "halide electrolyte",
+    "garnet electrolyte",
+    "electrode",
+    "argyrodite",
+    "LLZTO",
+    "LLZO",
+    "NASICON",
+    "silicon anode",
+    "Si anode",
+    "NCM",
+    "lithium metal anode",
+    "interfacial impedance",
+    "dendrite"
+  ],
+  "exclude_terms": [
+    "solid-state laser",
+    "solid state laser",
+    "solid-state lighting",
+    "solid-state drive"
+  ],
+  "journals": [
+    "Nature",
+    "Science",
+    "Nature Energy",
+    "Nature Materials",
+    "Nature Nanotechnology",
+    "Nature Chemistry",
+    "Nature Communications",
+    "Science Advances",
+    "Advanced Materials",
+    "Advanced Functional Materials",
+    "Advanced Energy Materials",
+    "Advanced Science",
+    "Energy & Environmental Science",
+    "ACS Energy Letters",
+    "Joule",
+    "Matter",
+    "Energy Storage Materials",
+    "Nano Energy",
+    "Chem",
+    "Angewandte Chemie International Edition",
+    "Journal of the American Chemical Society",
+    "ACS Nano",
+    "Nano Letters",
+    "Chemistry of Materials",
+    "Journal of Materials Chemistry A",
+    "Materials Horizons",
+    "Energy & Environmental Materials",
+    "Small",
+    "ACS Applied Materials & Interfaces",
+    "Journal of Power Sources"
+  ],
+  "journal_scope": {
+    "top_n": 15,
+    "selected_journals": [
+      "Nature",
+      "Science",
+      "Nature Energy",
+      "Nature Materials",
+      "Nature Nanotechnology",
+      "Nature Chemistry",
+      "Nature Communications",
+      "Science Advances",
+      "Advanced Materials",
+      "Advanced Functional Materials",
+      "Advanced Energy Materials",
+      "Advanced Science",
+      "Energy & Environmental Science",
+      "ACS Energy Letters",
+      "Joule"
+    ]
+  },
+  "search_direction": {
+    "preset": "solid_state_battery_general",
+    "label": "Solid-state battery general",
+    "crossref_query": "solid electrolyte OR electrolyte OR all-solid-state battery OR solid-state battery OR electrode OR LLZTO OR LLZO OR silicon anode OR Si anode OR NCM",
+    "openalex_query": "solid electrolyte electrolyte all-solid-state battery solid-state battery electrode LLZTO LLZO silicon anode Si anode NCM",
+    "query_manually_edited": false
+  },
+  "sources": {
+    "rss": [
+      {
+        "name": "Nature Energy",
+        "url": "https://feeds.nature.com/nenergy/rss/current"
+      },
+      {
+        "name": "Nature Materials",
+        "url": "https://feeds.nature.com/nmat/rss/current"
+      },
+      {
+        "name": "Advanced Energy Materials",
+        "url": "https://advanced.onlinelibrary.wiley.com/action/showFeed?jc=16146840&type=etoc&feed=rss"
+      },
+      {
+        "name": "Advanced Materials",
+        "url": "https://advanced.onlinelibrary.wiley.com/action/showFeed?jc=15214095&type=etoc&feed=rss"
+      }
+    ],
+    "crossref": {
+      "enabled": true,
+      "days_back": 15,
+      "rows": 100,
+      "rows_per_journal": 25,
+      "timeout_seconds": 20,
+      "max_workers": 3,
+      "journal_titles": [],
+      "query": "solid electrolyte OR electrolyte OR all-solid-state battery OR solid-state battery OR electrode OR LLZTO OR LLZO OR silicon anode OR Si anode OR NCM",
+      "mailto": ""
+    },
+    "openalex": {
+      "enabled": false,
+      "days_back": 15,
+      "per_page": 100,
+      "query": "solid electrolyte electrolyte all-solid-state battery solid-state battery electrode LLZTO LLZO silicon anode Si anode NCM",
+      "api_key": ""
+    }
+  }
+}

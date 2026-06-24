@@ -1,0 +1,504 @@
+{
+  "journals": [
+    {
+      "rank": 1,
+      "journal": "Nature",
+      "aliases": [],
+      "impact_factor": 48.5,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": null,
+      "level": "Nature Portfolio flagship journal; local metric needs periodic review",
+      "source_url": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
+    },
+    {
+      "rank": 2,
+      "journal": "Science",
+      "aliases": [],
+      "impact_factor": 45.8,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": 49.7,
+      "level": "AAAS flagship journal; local metric needs periodic review",
+      "source_url": "https://www.science.org/content/page/journal-metrics"
+    },
+    {
+      "rank": 3,
+      "journal": "Nature Energy",
+      "aliases": ["Nat Energy", "Nat. Energy"],
+      "impact_factor": 60.1,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": 68.9,
+      "level": "Nature Portfolio top energy journal",
+      "source_url": "https://www.nature.com/nenergy/journal-impact"
+    },
+    {
+      "rank": 4,
+      "journal": "Nature Materials",
+      "aliases": ["Nat Mater", "Nat. Mater."],
+      "impact_factor": 38.5,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": 46.8,
+      "level": "Nature Portfolio top materials journal",
+      "source_url": "https://www.nature.com/nmat/journal-impact"
+    },
+    {
+      "rank": 5,
+      "journal": "Nature Nanotechnology",
+      "aliases": ["Nat Nanotechnol", "Nat. Nanotechnol."],
+      "impact_factor": 34.9,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": 40.4,
+      "level": "Nature Portfolio nanoscience journal",
+      "source_url": "https://www.nature.com/nnano/journal-impact"
+    },
+    {
+      "rank": 6,
+      "journal": "Nature Chemistry",
+      "aliases": ["Nat Chem", "Nat. Chem."],
+      "impact_factor": 20.2,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": 22.6,
+      "level": "Nature Portfolio chemistry journal",
+      "source_url": "https://www.nature.com/nchem/journal-impact"
+    },
+    {
+      "rank": 7,
+      "journal": "Nature Communications",
+      "aliases": ["Nat Commun", "Nat. Commun."],
+      "impact_factor": 15.7,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": 17.2,
+      "level": "Nature Portfolio multidisciplinary open-access journal",
+      "source_url": "https://www.nature.com/ncomms/journal-impact"
+    },
+    {
+      "rank": 8,
+      "journal": "Science Advances",
+      "aliases": ["Sci Adv", "Sci. Adv."],
+      "impact_factor": 12.5,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": null,
+      "level": "AAAS multidisciplinary open-access journal",
+      "source_url": "https://www.science.org/journal/sciadv"
+    },
+    {
+      "rank": 9,
+      "journal": "Advanced Materials",
+      "aliases": ["Adv Mater", "Adv. Mater."],
+      "impact_factor": 29.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley flagship materials journal",
+      "source_url": "https://advanced.onlinelibrary.wiley.com/journal/15214095"
+    },
+    {
+      "rank": 10,
+      "journal": "Advanced Functional Materials",
+      "aliases": ["Adv Funct Mater", "Adv. Funct. Mater."],
+      "impact_factor": 19.9,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley high-impact functional materials journal",
+      "source_url": "https://advanced.onlinelibrary.wiley.com/journal/16163028"
+    },
+    {
+      "rank": 11,
+      "journal": "Advanced Energy Materials",
+      "aliases": ["Adv Energy Mater", "Adv. Energy Mater."],
+      "impact_factor": 25.5,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley flagship energy materials journal",
+      "source_url": "https://advanced.onlinelibrary.wiley.com/journal/16146840"
+    },
+    {
+      "rank": 12,
+      "journal": "Advanced Science",
+      "aliases": ["Adv Sci", "Adv. Sci."],
+      "impact_factor": 14.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley multidisciplinary open-access journal",
+      "source_url": "https://advanced.onlinelibrary.wiley.com/journal/21983844"
+    },
+    {
+      "rank": 13,
+      "journal": "Energy & Environmental Science",
+      "aliases": ["Energy and Environmental Science", "Energy Environ. Sci.", "Energy Environ Sci"],
+      "impact_factor": 30.5,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "RSC flagship energy and environmental science journal",
+      "source_url": "https://www.rsc.org/publishing/journals/energy-and-environmental-science"
+    },
+    {
+      "rank": 14,
+      "journal": "ACS Energy Letters",
+      "aliases": ["ACS Energy Lett.", "ACS Energy Lett"],
+      "impact_factor": 18.2,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": null,
+      "level": "ACS high-impact energy journal",
+      "source_url": "https://pubs.acs.org/doi/full/10.1021/acsenergylett.5c01964"
+    },
+    {
+      "rank": 15,
+      "journal": "Joule",
+      "aliases": [],
+      "impact_factor": 37.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Cell Press energy journal",
+      "source_url": "https://www.cell.com/joule/home"
+    },
+    {
+      "rank": 16,
+      "journal": "Matter",
+      "aliases": [],
+      "impact_factor": 15.7,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Cell Press materials journal",
+      "source_url": "https://www.cell.com/matter/home"
+    },
+    {
+      "rank": 17,
+      "journal": "Energy Storage Materials",
+      "aliases": ["Energy Storage Mater."],
+      "impact_factor": 20.2,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "High-impact energy storage journal",
+      "source_url": "https://www.sciencedirect.com/journal/energy-storage-materials"
+    },
+    {
+      "rank": 18,
+      "journal": "Nano Energy",
+      "aliases": [],
+      "impact_factor": 16.7,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Elsevier high-impact nano and energy journal; local metric needs periodic review",
+      "source_url": "https://shop.elsevier.com/journals/nano-energy/2211-2855"
+    },
+    {
+      "rank": 19,
+      "journal": "Chem",
+      "aliases": [],
+      "impact_factor": 19.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Cell Press chemistry journal",
+      "source_url": "https://www.cell.com/chem/home"
+    },
+    {
+      "rank": 20,
+      "journal": "Angewandte Chemie International Edition",
+      "aliases": ["Angew Chem Int Ed", "Angew. Chem. Int. Ed."],
+      "impact_factor": 17.6,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley high-impact chemistry journal",
+      "source_url": "https://chemistry-europe.onlinelibrary.wiley.com/journal/15213773"
+    },
+    {
+      "rank": 21,
+      "journal": "Journal of the American Chemical Society",
+      "aliases": ["JACS", "J. Am. Chem. Soc."],
+      "impact_factor": 16.6,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": 16.1,
+      "level": "ACS flagship chemistry journal",
+      "source_url": "https://pubs.acs.org/journal/jacsat"
+    },
+    {
+      "rank": 22,
+      "journal": "ACS Nano",
+      "aliases": ["ACS Nano"],
+      "impact_factor": 17.3,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": 17.0,
+      "level": "ACS high-impact nanoscience journal",
+      "source_url": "https://pubs.acs.org/journal/ancac3"
+    },
+    {
+      "rank": 23,
+      "journal": "Nano Letters",
+      "aliases": ["Nano Lett.", "Nano Lett"],
+      "impact_factor": 9.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": 9.9,
+      "level": "ACS nanoscience journal",
+      "source_url": "https://pubs.acs.org/journal/nalefd"
+    },
+    {
+      "rank": 24,
+      "journal": "Chemistry of Materials",
+      "aliases": ["Chem Mater", "Chem. Mater."],
+      "impact_factor": 7.1,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "ACS materials chemistry journal",
+      "source_url": "https://pubs.acs.org/journal/cmatex"
+    },
+    {
+      "rank": 25,
+      "journal": "Journal of Materials Chemistry A",
+      "aliases": ["J. Mater. Chem. A", "J Mater Chem A"],
+      "impact_factor": 9.2,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "RSC materials for energy and sustainability journal",
+      "source_url": "https://pubs.rsc.org/en/journals/journal/TA"
+    },
+    {
+      "rank": 26,
+      "journal": "Materials Horizons",
+      "aliases": ["Mater. Horiz.", "Mater Horiz"],
+      "impact_factor": 11.4,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "RSC high-impact materials journal",
+      "source_url": "https://pubs.rsc.org/en/journals/journal/MH"
+    },
+    {
+      "rank": 27,
+      "journal": "Energy & Environmental Materials",
+      "aliases": ["Energy and Environmental Materials", "Energy Environ. Mater.", "Energy Environ Mater"],
+      "impact_factor": 14.1,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": null,
+      "level": "Wiley open-access energy and environmental materials journal",
+      "source_url": "https://onlinelibrary.wiley.com/journal/25750356"
+    },
+    {
+      "rank": 28,
+      "journal": "Small",
+      "aliases": [],
+      "impact_factor": 11.8,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": null,
+      "level": "Wiley high-impact nanoscience and materials journal",
+      "source_url": "https://onlinelibrary.wiley.com/journal/16136829"
+    },
+    {
+      "rank": 29,
+      "journal": "ACS Applied Materials & Interfaces",
+      "aliases": ["ACS Appl. Mater. Interfaces", "ACS Appl Mater Interfaces"],
+      "impact_factor": 7.8,
+      "impact_factor_year": 2025,
+      "five_year_impact_factor": 8.0,
+      "level": "ACS applied materials and interfaces journal",
+      "source_url": "https://pubs.acs.org/journal/aamick"
+    },
+    {
+      "rank": 30,
+      "journal": "Journal of Power Sources",
+      "aliases": ["J. Power Sources", "J Power Sources"],
+      "impact_factor": 7.9,
+      "impact_factor_year": 2024,
+      "five_year_impact_factor": null,
+      "level": "Elsevier electrochemical power sources journal; local metric needs periodic review",
+      "source_url": "https://shop.elsevier.com/journals/journal-of-power-sources/0378-7753"
+    },
+    {
+      "rank": 31,
+      "journal": "Chemical Engineering Journal",
+      "aliases": ["Chem. Eng. J.", "Chem Eng J"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier chemical engineering journal relevant to energy materials; local metric needs manual review",
+      "source_url": "https://shop.elsevier.com/journals/chemical-engineering-journal/1385-8947"
+    },
+    {
+      "rank": 32,
+      "journal": "Journal of Energy Chemistry",
+      "aliases": ["J. Energy Chem.", "J Energy Chem"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier energy chemistry journal covering electrochemical energy; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/journal-of-energy-chemistry"
+    },
+    {
+      "rank": 33,
+      "journal": "Electrochimica Acta",
+      "aliases": ["Electrochim. Acta"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier electrochemistry journal relevant to battery interfaces; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/electrochimica-acta"
+    },
+    {
+      "rank": 34,
+      "journal": "ACS Applied Energy Materials",
+      "aliases": ["ACS Appl. Energy Mater.", "ACS Appl Energy Mater"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "ACS applied energy materials journal; local metric needs manual review",
+      "source_url": "https://pubs.acs.org/journal/aaemcq"
+    },
+    {
+      "rank": 35,
+      "journal": "ACS Materials Letters",
+      "aliases": ["ACS Mater. Lett.", "ACS Mater Lett"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "ACS urgent materials letters journal; local metric needs manual review",
+      "source_url": "https://pubs.acs.org/journal/amlcef"
+    },
+    {
+      "rank": 36,
+      "journal": "Batteries & Supercaps",
+      "aliases": ["Batter. Supercaps", "Batteries and Supercaps"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Chemistry Europe energy storage journal; local metric needs manual review",
+      "source_url": "https://chemistry-europe.onlinelibrary.wiley.com/journal/25666223"
+    },
+    {
+      "rank": 37,
+      "journal": "Electrochemical Energy Reviews",
+      "aliases": ["Electrochem. Energy Rev.", "Electrochem Energy Rev"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Springer Nature electrochemical energy review journal; local metric needs manual review",
+      "source_url": "https://link.springer.com/journal/41918"
+    },
+    {
+      "rank": 38,
+      "journal": "EnergyChem",
+      "aliases": ["Energy Chem"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier chemistry for energy applications journal; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/energychem"
+    },
+    {
+      "rank": 39,
+      "journal": "Carbon Energy",
+      "aliases": [],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Wiley carbon and energy technology journal; local metric needs manual review",
+      "source_url": "https://onlinelibrary.wiley.com/journal/26379368"
+    },
+    {
+      "rank": 40,
+      "journal": "Advanced Energy and Sustainability Research",
+      "aliases": ["Advanced Energy & Sustainability Research", "Adv. Energy Sustainability Res.", "Adv Energy Sustainability Res"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Wiley Advanced portfolio energy and sustainability journal; local metric needs manual review",
+      "source_url": "https://onlinelibrary.wiley.com/journal/26999412"
+    },
+    {
+      "rank": 41,
+      "journal": "Sustainable Energy & Fuels",
+      "aliases": ["Sustainable Energy and Fuels", "Sustain. Energy Fuels", "Sustain Energy Fuels"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "RSC sustainable energy technologies journal; local metric needs manual review",
+      "source_url": "https://pubs.rsc.org/en/journals/journal/SE"
+    },
+    {
+      "rank": 42,
+      "journal": "ChemSusChem",
+      "aliases": [],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Chemistry Europe sustainability and energy chemistry journal; local metric needs manual review",
+      "source_url": "https://chemistry-europe.onlinelibrary.wiley.com/journal/1864564x"
+    },
+    {
+      "rank": 43,
+      "journal": "Green Chemistry",
+      "aliases": ["Green Chem."],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "RSC green and sustainable chemistry journal; local metric needs manual review",
+      "source_url": "https://pubs.rsc.org/en/journals/journal/GC"
+    },
+    {
+      "rank": 44,
+      "journal": "Journal of The Electrochemical Society",
+      "aliases": ["Journal of the Electrochemical Society", "J. Electrochem. Soc.", "J Electrochem Soc"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "ECS flagship electrochemistry and solid-state science journal; local metric needs manual review",
+      "source_url": "https://www.electrochem.org/publications/jes"
+    },
+    {
+      "rank": 45,
+      "journal": "Solid State Ionics",
+      "aliases": ["Solid State Ion."],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier solid-state ion transport journal; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/solid-state-ionics"
+    },
+    {
+      "rank": 46,
+      "journal": "Journal of Electroanalytical Chemistry",
+      "aliases": ["J. Electroanal. Chem.", "J Electroanal Chem"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier electroanalytical chemistry journal; local metric needs manual review",
+      "source_url": "https://shop.elsevier.com/journals/journal-of-electroanalytical-chemistry/1572-6657"
+    },
+    {
+      "rank": 47,
+      "journal": "Materials Today Energy",
+      "aliases": ["Mater. Today Energy", "Mater Today Energy"],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier Materials Today energy materials journal; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/materials-today-energy"
+    },
+    {
+      "rank": 48,
+      "journal": "Battery Energy",
+      "aliases": [],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Wiley interdisciplinary battery research journal; local metric needs manual review",
+      "source_url": "https://www.wiley.com/en-br/battery-energy-p-27681696"
+    },
+    {
+      "rank": 49,
+      "journal": "Batteries",
+      "aliases": [],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "MDPI open-access battery technology journal; local metric needs manual review",
+      "source_url": "https://www.mdpi.com/journal/batteries"
+    },
+    {
+      "rank": 50,
+      "journal": "eTransportation",
+      "aliases": [],
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "five_year_impact_factor": null,
+      "level": "Elsevier electric transportation journal relevant to battery systems; local metric needs manual review",
+      "source_url": "https://www.sciencedirect.com/journal/etransportation"
+    }
+  ]
+}

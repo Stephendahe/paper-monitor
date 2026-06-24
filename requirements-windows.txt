@@ -1,0 +1,4 @@
+pystray>=0.19
+Pillow>=10
+win11toast>=0.35
+pyinstaller>=6
